@@ -1655,7 +1655,7 @@ void st_Step(uint8_t player_pos, uint8_t is_auto_fire, uint8_t is_fire)
 void setup(void) {
   u8g2.begin(); 
 }
-
+/* declaration of variables*/
 uint8_t a;
 uint8_t b;
 uint8_t y = 128;
